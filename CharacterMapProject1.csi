@@ -1,0 +1,16 @@
+[History]
+B0=Project1/Form1/Form_Load
+B1=Project1/Form1/Txtcopy_Change
+B2=Project1/Form1
+B3=Project1/Form1/Txtcopy_MouseDown
+B4=Project1/Form1/Txtcopy_GotFocus
+B5=Project1/Form1/drawfocusColour
+B6=Project1/Form1/Timer1_Timer
+B7=Project1/Form1/drawSquare
+B8=Project1/Form1/Picture1_MouseUp
+B9=Project1/Form1/Picture1_MouseMove
+B10=Project1/Form1/Picture1_MouseDown
+B11=Project1/Form1/drawselected
+B12=Project1/Form1/Picture1_KeyDown
+B13=Project1/Form1/Form_Unload
+B14=Project1/Form1/mnuWhatsThis_Click
